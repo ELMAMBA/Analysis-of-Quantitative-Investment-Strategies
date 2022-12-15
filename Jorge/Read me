@@ -14,7 +14,7 @@ Before running the code:
  
  - Transfer the data to folder you just created in the Google Drive
  
- - Download the notebook named "Returns", and run it on the Google Colab (this is important as the references to the data are connected with Google Drive)
+ - Download the notebook inside the "Returns" folder, and run it on the Google Colab (this is important as the references to the data are connected with Google Drive)
  
  To check the Performance Statistics, and plots, download the notebooks inside the respective folders
  
