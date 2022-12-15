@@ -1,3 +1,7 @@
-The optimization process for the risk-parity weights takes a significant amount of hours. 
+The optimization process for the risk-parity weights takes a significant amount of hours because every period the process needs to be done in each leg of the portfolio.
+Depending on the number of stocks, the process can take 1 to 4 minutes in each leg. There are 2 legs, so each period can take 2 to 7/8 minutes to optimize.
+There are around 300 periods, however the time has exponential reductions. 
+For example, for me, it took 1 hour to complete 5% of the process, around 4 hours to complete 50%, and around 6/7 hours to complete the whole process.
+It may take you more or less depending on your processing power.
 If you're interested in skipping that process download the file in this folder. It contains the weights already for the sample.
 Make sure the document is in the same Google Drive folder than the remaining data
