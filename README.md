@@ -10,8 +10,9 @@
 
 - Maximilian Kellerbach
 
-\n
-\n
+<br/>
+<br/>
+
 **Work Project carried out under the supervision of:**
 
 - Nicholas Hirschey
