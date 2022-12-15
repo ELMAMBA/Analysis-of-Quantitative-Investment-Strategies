@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/10aGidpOTTbl413tuWMXXrtcY6wKSefU7
 3. download the code and save it in the same folder as all the previous folders
 
 Note: To download a notebook, you have to select it, select the option "Raw" next to the "Blame" button, and save it as a ipynb file. 
-
+Also, folder and file names should remain unchanged, see following list to verify.
 
 The final folder should look something like this:
 
@@ -26,6 +26,6 @@ ff3
   FF3 Data.csv
  Omar_code.ipynb
  
- 
+
 Note: When running the code, do not forget to change the path to the path of the folder in the Data Gathering part
 There is a comment to remind you stating "Adjust path accordingly"
