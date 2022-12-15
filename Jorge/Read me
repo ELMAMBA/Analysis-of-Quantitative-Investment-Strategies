@@ -1,4 +1,3 @@
-# Work Project - Individual Part
  Code used to create the strategy for the Work Project presented as part of the requirements for the Award of a Master’s degree in Finance from the Nova School of Business and Economics.
  
  Student Name: Jorge Fresta Homem de Gouveia
@@ -7,7 +6,7 @@
  
  Supervisor: Nicholas Hirschey
  
-*Before running the code:*
+Before running the code:
  
  - Create a folder in your Google Drive with the name "_Data_"
  
@@ -19,9 +18,12 @@
  
  To check the Performance Statistics, and plots, download the notebooks inside the respective folders
  
- Note: To download a notebook, you have to select it, select the option "Raw" next to the "Blame" button, and save it as a ipynb file. Then you can upload it in your Google Colab environment and work from there.
+ Note: To download a notebook, you have to select it, select the option "Raw" next to the "Blame" button, and save it as a ipynb file. 
+ Then you can upload it in your Google Colab environment and work from there.
  
- **Abstract**
+ Abstract
  
- Momentum is one of the most studied anomalies in the literature. For decades it delivered significant excess returns, however lately it has been underperforming. In this work I show that by combining a dual momentum strategy with risk parity weighting and volatility scaling, a considerable amount of the momentum strategies downfalls can be solved, while increasing the Sharpe Ratio almost five times in comparison with the default momentum strategy, and dramatically reducing the tail risk.
+ Momentum is one of the most studied anomalies in the literature. For decades it delivered significant excess returns, however lately it has been underperforming. 
+ In this work I show that by combining a dual momentum strategy with risk parity weighting and volatility scaling, a considerable amount of the momentum strategies 
+ downfalls can be solved, while increasing the Sharpe Ratio almost five times in comparison with the default momentum strategy, and dramatically reducing the tail risk.
 
