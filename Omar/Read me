@@ -1,1 +1,31 @@
-filler
+ID: 49211
+Name: Omar Hardouf
+Strategy: Analysis of Quantitative Investment Strategies - Revisiting Value and Momentum
+Supervisor: Nicholas Hirschey
+
+Follow theses steps to run the code:
+
+1. download the data from the following link, make sure to download the whole folder:
+https://drive.google.com/drive/folders/10aGidpOTTbl413tuWMXXrtcY6wKSefU7
+
+2. download the ff3 data file without changing the name and save it in the same folder 
+
+3. download the code and save it in the same folder as all the previous folders
+
+Note: To download a notebook, you have to select it, select the option "Raw" next to the "Blame" button, and save it as a ipynb file. 
+
+
+The final folder should look something like this:
+
+data
+  benchmark.csv
+  book_val.csv
+  entp_val.csv
+  price.csv
+ff3
+  FF3 Data.csv
+ Omar_code.ipynb
+ 
+ 
+Note: When running the code, do not forget to change the path to the path of the folder in the Data Gathering part
+There is a comment to remind you stating "Adjust path accordingly"
