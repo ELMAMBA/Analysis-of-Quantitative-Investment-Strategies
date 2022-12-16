@@ -1,1 +1,34 @@
-filler
+ Code used to replicate the Market Timing Rotational Strategy used for the Work Project presented as part of the requirements for the Award of a Master’s degree in Finance from 
+ the Nova School of Business and Economics.
+ 
+ Student Name: Francisco José da Costa Reis Perestrello de Vasconcellos
+ 
+ Student Number: 39001
+ 
+ Supervisor: Nicholas Hirschey
+ 
+ 
+ Notes to user:
+ 
+  - The Fama French Factors Data csv is imported automatically
+  
+  
+ If you encounter problems importing the Fama French Factors Data csv:
+ 
+ - Go to the path Analysis-of-Quantitative-Investment-Strategies/Francisco/ in the current repository
+ 
+ - Open the FamaFrenchFactors.CSV file
+ 
+ - Click on 'Raw', on the top right corner next to 'Blame'
+ 
+ - Copy the page url
+ 
+ - Assign it to the url variable under 'Getting Risk-Free Rate from Fama French Factors', in the 'Performance Analysis' section.
+ 
+ 
+ Abstract
+ 
+ It is well-known in the financial world that investors often turn to gold as a “safe haven” during times of adverse market conditions. This study explores a rotational 
+ strategy that involves switching between gold and the market in an attempt to try to time the latter and minimize losses during these periods. Findings suggest that 
+ the effectiveness of this strategy largely varies depending on the specific macroeconomic conjuncture, showing promising results during the Covid-19 Crisis of 2020, 
+ but less so during the Great Financial Crisis of 2007-09.
