@@ -21,6 +21,8 @@ Before running the code:
  Note: To download a notebook, you have to select it, select the option "Raw" next to the "Blame" button, and save it as a ipynb file. 
  Then you can upload it in your Google Colab environment and work from there.
  
+ Note 2: If you want to set other directory for the files make sure you change all the references.
+ 
  Abstract
  
  Momentum is one of the most studied anomalies in the literature. For decades it delivered significant excess returns, however lately it has been underperforming. 
